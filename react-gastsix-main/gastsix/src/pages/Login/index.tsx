@@ -20,7 +20,7 @@ function Login() {
       var listaUsuarios = [
         {
           "matricula": "061",
-          "nome": "Usuario 1",
+          "nome": "Administrador",
           "email": "usuario1@email.com",
           "senha": "123",
           "funcao": "ADMIN",
