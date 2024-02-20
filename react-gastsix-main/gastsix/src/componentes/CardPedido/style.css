@@ -84,7 +84,11 @@ h2 {
         width: 120%;
     }
 
-    .borda__pedido{
+    .cartao__pedido{
         width: 75%;
+    }
+
+    .borda__pedido{
+        width: 70%;
     }
 }

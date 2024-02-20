@@ -54,7 +54,7 @@ function Header() {
       //   break;
 
       default:
-        return 'GastSix'
+        return 'Detalhes do Pedido'
         break;
 
       // case '/cadastroDispositivo':
