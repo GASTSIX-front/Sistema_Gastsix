@@ -43,7 +43,7 @@ header {
 
 /*BANNER*/
 
-.banner {
+.banner__det_pedido {
     background-image: url(../../assets/img/background.png); 
     /* height: auto;  */
     height: 944px; 
@@ -85,8 +85,8 @@ header {
     h1{
         font-size: 15px;
     }
-     .banner{
-        height: 1800px;
+     .banner__det_pedido{
+        height: 1100px;
     } 
     .botao_fechar svg {
         height: 15px;

@@ -104,7 +104,7 @@ function Det_Pedido() {
 
 
   return (
-    <main className="banner">
+    <main className="banner__det_pedido">
       <div>
         <span className="id_pedido">Id pedido: {idPedido}</span>
       </div>

@@ -4,7 +4,7 @@ import "./style.css";
 
 function CardPedido(props: any) {
     return (
-        <div className="div_alinhamento_label">
+        <div className="div_alinhamento_label" id="div__alinhamento_label-id">
             <Link to={"/detalhesPedido/" + props.id} className="cartao__pedido">
                 <div>
                     <p>Id Pedido: {props.id}</p>

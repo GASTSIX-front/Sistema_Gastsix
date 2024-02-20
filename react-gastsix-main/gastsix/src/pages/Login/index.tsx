@@ -69,7 +69,7 @@ function Login() {
     const usuarioLogado = listaUsuarios.find(usuario => usuario.email == email && usuario.senha == senha);
     if (usuarioLogado) {      
       alert("Login bem-sucedido. Bem-vindo, " + usuarioLogado.nome);
-      navigate("/loginHome");
+      navigate("/visualizarPedido");
     }else{
       alert("Usuário não encontrado ou senha incorreta");
     }
