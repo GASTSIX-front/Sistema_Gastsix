@@ -148,6 +148,9 @@ header {
         font-size: 13px;
         margin-top: 4em;
     }
+    .banner__lancar{
+        height: 1200px;
+    }
 
 }
 

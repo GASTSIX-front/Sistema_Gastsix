@@ -309,6 +309,9 @@ table * {
     .banner{
         height: 1400px;
     }
+    .banner__conestoque{
+        height: 1180px;
+    }
     .botao_fechar svg {
         height: 15px;
     }

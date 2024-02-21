@@ -42,8 +42,12 @@ function Header() {
         break;
 
       case '/cadastroDispositivo':
-        return 'Cadastro de Dispositivos'
+        return 'Cadastro de Operadores'
         break;
+
+        case '/relatorioOperadores':
+          return 'Cadastro de Dispositivos'
+          break;
 
       case '/detalhesPedido':
         return 'Detalhes do Pedido'
@@ -62,7 +66,7 @@ function Header() {
       //   break;
 
       case '/relatorioMovimentacao':
-        return 'Relatório de Operadores'
+        return 'Relatório de Movimentação'
         break;
 
       case '/relatorioEstoque':

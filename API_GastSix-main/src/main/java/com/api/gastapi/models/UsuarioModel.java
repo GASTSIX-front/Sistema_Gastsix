@@ -41,6 +41,8 @@ public class UsuarioModel implements Serializable, UserDetails {
     @Temporal(TemporalType.DATE)
     private Date data_admissao;
 
+    private String setor;
+
 
 
     @Override

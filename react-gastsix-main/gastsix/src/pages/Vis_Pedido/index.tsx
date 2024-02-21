@@ -43,48 +43,48 @@ function Vis_Pedido() {
               "id": "0618a348-c6e1-11ee-9c08-b445067b803e",
               "produto": {
                 "id": "0618a348-c6e1-11ee-9c08-b445067b803e",
-                "descricao": "Produto A",
+                "descricao": "Parafuso",
                 "partnumber": "123456",
                 "setor": "A",
                 "codigoSAP": "SAP123"
               },
-              "quantidade_produto": 10,
+              "quantidade_produto": 10000,
               "separado": false
             },
             {
               "id": "061a4df9-c6e1-11ee-9c08-b445067b803e",
               "produto": {
                 "id": "061a4df9-c6e1-11ee-9c08-b445067b803e",
-                "descricao": "Produto D",
+                "descricao": "Alto-falante dianteiro esquerdo",
                 "partnumber": "901234",
                 "setor": "A",
                 "codigoSAP": "SAP901"
               },
-              "quantidade_produto": 50,
+              "quantidade_produto": 25,
               "separado": false
             },
             {
               "id": "061b4a90-c6e1-11ee-9c08-b445067b803e",
               "produto": {
                 "id": "061b4a90-c6e1-11ee-9c08-b445067b803e",
-                "descricao": "Produto G",
+                "descricao": "Para sol",
                 "partnumber": "890123",
                 "setor": "A",
                 "codigoSAP": "SAP890"
               },
-              "quantidade_produto": 1,
+              "quantidade_produto": 50,
               "separado": false
             },
             {
               "id": "061cb21a-c6e1-11ee-9c08-b445067b803e",
               "produto": {
                 "id": "061cb21a-c6e1-11ee-9c08-b445067b803e",
-                "descricao": "Produto J",
+                "descricao": "Teto solar",
                 "partnumber": "678901",
                 "setor": "A",
                 "codigoSAP": "SAP678"
               },
-              "quantidade_produto": 100,
+              "quantidade_produto": 1,
               "separado": false
             }
           ],
@@ -100,7 +100,7 @@ function Vis_Pedido() {
               "id": "0619084a-c6e1-11ee-9c08-b445067b803e",
               "produto": {
                 "id": "0619084a-c6e1-11ee-9c08-b445067b803e",
-                "descricao": "Produto B",
+                "descricao": "Pedaleiras",
                 "partnumber": "789012",
                 "setor": "B",
                 "codigoSAP": "SAP789"
@@ -112,24 +112,24 @@ function Vis_Pedido() {
               "id": "061aaaa8-c6e1-11ee-9c08-b445067b803e",
               "produto": {
                 "id": "061aaaa8-c6e1-11ee-9c08-b445067b803e",
-                "descricao": "Produto E",
+                "descricao": "Coxim do motor",
                 "partnumber": "567890",
                 "setor": "B",
                 "codigoSAP": "SAP567"
               },
-              "quantidade_produto": 5,
+              "quantidade_produto": 70,
               "separado": false
             },
             {
               "id": "061bb8fb-c6e1-11ee-9c08-b445067b803e",
               "produto": {
                 "id": "061bb8fb-c6e1-11ee-9c08-b445067b803e",
-                "descricao": "Produto H",
+                "descricao": "Volante",
                 "partnumber": "456789",
                 "setor": "B",
                 "codigoSAP": "SAP456"
               },
-              "quantidade_produto": 10,
+              "quantidade_produto": 80,
               "separado": false
             }
           ],
@@ -145,36 +145,36 @@ function Vis_Pedido() {
               "id": "0619b8ac-c6e1-11ee-9c08-b445067b803e",
               "produto": {
                 "id": "0619b8ac-c6e1-11ee-9c08-b445067b803e",
-                "descricao": "Produto C",
+                "descricao": "Roda",
                 "partnumber": "345678",
                 "setor": "C",
                 "codigoSAP": "SAP345"
               },
-              "quantidade_produto": 20,
+              "quantidade_produto": 200,
               "separado": false
             },
             {
               "id": "061af93d-c6e1-11ee-9c08-b445067b803e",
               "produto": {
                 "id": "061af93d-c6e1-11ee-9c08-b445067b803e",
-                "descricao": "Produto F",
+                "descricao": "retrovisor dianteiro direito",
                 "partnumber": "234567",
                 "setor": "C",
                 "codigoSAP": "SAP234"
               },
-              "quantidade_produto": 20,
+              "quantidade_produto": 100,
               "separado": false
             },
             {
               "id": "061c560a-c6e1-11ee-9c08-b445067b803e",
               "produto": {
                 "id": "061c560a-c6e1-11ee-9c08-b445067b803e",
-                "descricao": "Produto I",
+                "descricao": "Retrovisor dianteiro esquerdo",
                 "partnumber": "012345",
                 "setor": "C",
                 "codigoSAP": "SAP012"
               },
-              "quantidade_produto": 5,
+              "quantidade_produto": 100,
               "separado": false
             }
           ],
